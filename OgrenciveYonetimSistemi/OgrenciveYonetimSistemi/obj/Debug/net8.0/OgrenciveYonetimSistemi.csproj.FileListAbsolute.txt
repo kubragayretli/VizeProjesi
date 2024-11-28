@@ -1,0 +1,14 @@
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\bin\Debug\net8.0\OgrenciveYonetimSistemi.exe
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\bin\Debug\net8.0\OgrenciveYonetimSistemi.deps.json
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\bin\Debug\net8.0\OgrenciveYonetimSistemi.runtimeconfig.json
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\bin\Debug\net8.0\OgrenciveYonetimSistemi.dll
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\bin\Debug\net8.0\OgrenciveYonetimSistemi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\OgrenciveYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\OgrenciveYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\OgrenciveYonetimSistemi.AssemblyInfo.cs
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\OgrenciveYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\OgrenciveYonetimSistemi.dll
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\refint\OgrenciveYonetimSistemi.dll
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\OgrenciveYonetimSistemi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\OgrenciveYonetimSistemi.genruntimeconfig.cache
+C:\Users\kubra\OneDrive\Masaüstü\OgrenciveYonetimSistemi\OgrenciveYonetimSistemi\obj\Debug\net8.0\ref\OgrenciveYonetimSistemi.dll
